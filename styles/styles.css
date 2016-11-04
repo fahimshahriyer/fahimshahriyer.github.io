@@ -197,9 +197,13 @@ section .section-body {
   color: #ACACAC;
   padding-right: 20px;
 }
-.works-list .description a {
+.works-list .description .links {
   display: block;
   margin-top: 25px;
+}
+.works-list .description .links a {
+  display: inline-block;
+  margin-right: 25px;
   color: #222831;
 }
 .floating-nav {
