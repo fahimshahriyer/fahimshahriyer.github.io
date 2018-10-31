@@ -49,7 +49,7 @@ section .section-body {
   padding-bottom: 65px;
 }
 .main-header #logo {
-  width: 200px;
+  width: 264px;
   height: auto;
 }
 #frontpage {
@@ -238,7 +238,7 @@ section .section-body {
   background: #393e46;
 }
 .floating-nav .nav-item:after {
-  content: '';
+  content: "";
   position: absolute;
   top: 35%;
   right: 0;
@@ -254,7 +254,7 @@ section .section-body {
 }
 .floating-nav .nav-item span {
   margin: 0 0 0 1em;
-  opacity: 1	;
+  opacity: 1;
   display: block;
   -webkit-transform: translate3d(-4em, 0, 0);
   transform: translate3d(-4em, 0, 0);
